@@ -1,0 +1,38 @@
+.container {
+	width:960px;
+	margin:0 auto;
+	overflow:hidden;
+	text-align: center;
+}
+.like {
+	display:inline-block;
+	padding:3px 7px;
+	background:#0E76AC;
+	color:#fff;
+	font:bold 12px Tahoma;
+	text-align:left;
+	line-height:16px;
+}
+.like span {
+	display:inline-block;
+	border-left:1px solid #eee;
+	padding-left:4px;
+}
+a {
+	width: 50px;
+	text-decoration:none;
+}
+li:hover {
+	color:#444;
+	background:#eee;
+}
+ul {
+	list-style: none;
+}
+li {
+	text-align:left;
+}
+#vasak {
+	padding-top: 30px;
+	text-align:left;
+}
